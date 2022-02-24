@@ -2,6 +2,8 @@
 
 This is the main place for database related information, work, exports, etc.
 
+Download our full podcast database as a sqlite3 file [over IPFS](https://cloudflare-ipfs.com/ipns/k51qzi5uqu5dkde1r01kchnaieukg7xy9i6eu78kk3mm3vaa690oaotk1px6wo/podcastindex_feeds.db.tgz) or [using HTTP](https://public.podcastindex.org/podcastindex_feeds.db.tgz).
+
 # Sample export of the "newsfeeds" table
 
 Most of the field names are obvious.  But, for clarity, here are the meanings of others:

@@ -31,3 +31,6 @@ Most of the field names are obvious.  But, for clarity, here are the meanings of
 * priority - This is a flag.  Some podcasts are just really popular and need to be checked frequently to make sure they aren't missed.  This can be 
              set manually or through automated popularity discovery.
 * detected_language - Not used yet.
+
+
+Everything in this repo is under the MIT license.

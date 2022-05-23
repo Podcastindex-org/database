@@ -33,4 +33,4 @@ Most of the field names are obvious.  But, for clarity, here are the meanings of
 * detected_language - Not used yet.
 
 
-Everything in this repo is under the MIT license.
+Everything in this repo is under the [MIT](https://opensource.org/licenses/MIT) license.
